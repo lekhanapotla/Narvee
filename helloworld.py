@@ -24,4 +24,8 @@ for i in range(0,10):
 
 print('sample test')
 
+print(9+10)
+
+print('hi how r u?')
+
 
